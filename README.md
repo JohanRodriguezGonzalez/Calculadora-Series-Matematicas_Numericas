@@ -54,7 +54,7 @@ Una aplicación web desarrollada en React que calcula diferentes series numerica
 ### 1. Clonar el Repositorio
 ```bash
 git clone <https://github.com/JohanRodriguezGonzalez/Calculadora-Series-Matematicas_Numericas.git>
-cd numeric-series-calculator
+cd Series-Numnericas
 ```
 
 ### 2. Instalar Dependencias
